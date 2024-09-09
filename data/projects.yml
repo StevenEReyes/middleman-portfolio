@@ -1,34 +1,27 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Longest Word Game
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Movie Watchlist
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
+# - name: Airbnb
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   github: https://www.github.com
+#   online: true
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: Gremlin Bell
+  description: A social network for motorcycle enthusiasts who want to create, share, and discover motorcycle routes in Japan.
+  image: projects/gremlin_bell.png
+  url: https://www.gremlin-bell.bike
+  github: https://www.github.com/StevenEReyes/gremlin_bell
   online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
