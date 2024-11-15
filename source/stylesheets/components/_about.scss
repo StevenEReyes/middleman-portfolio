@@ -1,6 +1,14 @@
 #about h2 {
-    color: #000000;
-    font-weight: bold;
-    font-size: 1.5em;
-    margin-bottom: 1em;
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+#about-title {
+  max-width: auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
 }
